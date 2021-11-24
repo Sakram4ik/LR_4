@@ -1,0 +1,9 @@
+#LR_5?
+$ cat .gitignore
+*.[oa]
+*~
+*.a
+!lib.a
+/TODO
+build/
+doc/*.txt
